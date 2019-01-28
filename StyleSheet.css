@@ -1,0 +1,12 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    background-color: darkcyan;
+    height: 100px;
+    text-align: center;
+    font-size: 80px;
+}
+.main{
+    position: absolute;
+    top: 100px;
+}
